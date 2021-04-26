@@ -7,14 +7,16 @@ Project title: Cloud Kitchen
 
 6 collaborators:
 
- Group members:             Name	                      Student ID
-                           
+ Group members:            
+                             Name	                      Student ID
                             Vũ Trọng Phong             Student1285595
                             Lê Ngân Tâm                Student1285595
                             Phạm Thiên Long            Student1285595
                             Đỗ Huy Hoàng               Student1285595  
                             Đỗ Thành Nam               Student1285595
                             Nguyễn Hoàng Minh          Student1285595
+                            
+                          
 ============================
 
 TechWiz documentation at https://github.com/thienquang1804/eProject1/tree/main/Review
