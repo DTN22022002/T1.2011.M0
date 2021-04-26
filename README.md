@@ -28,4 +28,4 @@ TechWiz documentation at https://github.com/thienquang1804/eProject1/tree/main/R
 
 ============================
 
-Thank you for spending your time to look at our work.
+Thank you for taking the time to watch my group 
