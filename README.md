@@ -9,6 +9,7 @@ Project title: Cloud Kitchen
 
  Group members:            
                              Name	                      Student ID
+                             
                             Vũ Trọng Phong             Student1285595
                             Lê Ngân Tâm                Student1285595
                             Phạm Thiên Long            Student1285595
