@@ -17,11 +17,11 @@ Project title: Cloud Kitchen
                             Nguyễn Hoàng Minh          Student1285595
 ============================
 
-eProject documentation at https://github.com/thienquang1804/eProject1/tree/main/Review
+TechWiz documentation at https://github.com/thienquang1804/eProject1/tree/main/Review
 
 ============================
 
-eProject published at https://thienquang1804.github.io/eProject1/
+ TechWiz published at https://thienquang1804.github.io/eProject1/
 
 ============================
 
